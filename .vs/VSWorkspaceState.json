@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\mock",
+    "\\plop-templates",
+    "\\plop-templates\\component",
+    "\\plop-templates\\store",
+    "\\src",
+    "\\src\\components\\Share",
+    "\\src\\components\\SizeSelect",
+    "\\src\\views",
+    "\\src\\views\\nested",
+    "\\src\\views\\nested\\menu1",
+    "\\src\\views\\nested\\menu1\\menu1-2",
+    "\\src\\views\\nested\\menu1\\menu1-2\\menu1-2-1"
+  ],
+  "SelectedNode": "\\.eslintrc.js",
+  "PreviewInSolutionExplorer": false
+}
